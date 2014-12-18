@@ -1,5 +1,4 @@
-<snippet>
-  <content><![CDATA[
+
 # ${1:TDD_Java_Practices}
 ==================
 
@@ -18,6 +17,4 @@ Test-Driven Development Practices in Java
 
 ## Fixture Management & Data Component Testing(DBUnit)
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+

@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1:TDD_Java_Practices}
 ==================
 
@@ -17,6 +17,7 @@ Test-Driven Development Practices in Java
 ## Mockito Feature Deep-Dive
 
 ## Fixture Management & Data Component Testing(DBUnit)
-]]></content>
+
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
